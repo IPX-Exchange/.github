@@ -14,7 +14,7 @@ Operated by IPX Exchange, Inc. Â· [www.ipx.exchange](https://www.ipx.exchange) Â
 
 IPX is the native token of the platform: an ERC-20 on Base with a fixed supply of 1,000,000,000, no mint and no burn. It routes purchases, backs project graduation and is the quote currency of project markets.
 
-See the [ipx-token](https://github.com/ORG/ipx-token) repository and the [token page](https://www.ipx.exchange/about/token) for details.
+See the [ipx-token](https://github.com/IPX-Exchange/ipx-token) repository and the [token page](https://www.ipx.exchange/about/token) for details.
 
 ## Learn more
 
