@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>The OS for the creator economy</b><br />
-  Launch, fund and trade tokenized intellectual property on Base.
 </p>
 
 <p align="center">
@@ -14,6 +13,8 @@
 </p>
 
 ---
+
+IPX Exchange is an operating system for intellectual property. Creators, brands and rights-holders use it to tokenize their work, raise production funding, advertise, monetize and distribute it, while communities and partners take part through memberships, perks and access. Each project gets its own token, priced against IPX, and everything settles on Base.
 
 ## What we build
 
