@@ -1,28 +1,48 @@
-# IPX Exchange
+<h1 align="center">IPX Exchange</h1>
 
-The OS for the creator economy. IPX Exchange is a platform where creators raise production funding, projects launch their own tokens, and communities, brands and partners connect with culture, on Base.
+<p align="center">
+  <b>The OS for the creator economy</b><br />
+  Launch, fund and trade tokenized intellectual property on Base.
+</p>
 
-Operated by IPX Exchange, Inc. · [www.ipx.exchange](https://www.ipx.exchange) · support@ipx.exchange
+<p align="center">
+  <a href="https://www.ipx.exchange">Website</a> &nbsp;·&nbsp;
+  <a href="https://www.ipx.exchange/about/token">Token</a> &nbsp;·&nbsp;
+  <a href="https://www.ipx.exchange/about/whitepaper">Whitepaper</a> &nbsp;·&nbsp;
+  <a href="https://www.ipx.exchange/about/team">Team</a> &nbsp;·&nbsp;
+  <a href="mailto:support@ipx.exchange">Contact</a>
+</p>
 
-## What IPX does
+---
 
-- **Launch and fund:** creators raise production funding, and each project's token then trades.
-- **Subscriptions and memberships:** tools and tiers for creators, agencies and members, and memberships that unlock perks, access and experiences.
-- **One ecosystem:** CultureX, LIVE X, CreatorX, BrandX, PODX and IPX Studios, connected on one platform.
+## What we build
+
+| | |
+|---|---|
+| **Launch and fund** | Creators raise production funding, and each project's token then trades. |
+| **Subscriptions and memberships** | Tools and tiers for creators, agencies and members, and memberships that unlock perks, access and experiences. |
+| **One ecosystem** | CultureX, LIVE X, CreatorX, BrandX, PODX and IPX Studios, connected on one platform. |
 
 ## The IPX token
 
-IPX is the native token of the platform: an ERC-20 on Base with a fixed supply of 1,000,000,000, no mint and no burn. It routes purchases, backs project graduation and is the quote currency of project markets.
+IPX is the native token of the platform. It routes purchases, backs project graduation and is the quote currency of project markets.
 
-See the [ipx-token](https://github.com/IPX-Exchange/ipx-token) repository and the [token page](https://www.ipx.exchange/about/token) for details.
+| | |
+|---|---|
+| **Network** | Base mainnet |
+| **Standard** | ERC-20 |
+| **Supply** | 1,000,000,000, fixed. No mint, no burn. |
+| **Contract** | [`0x32fe…4CC5`](https://basescan.org/token/0x32fe0F0fa6E712f3d232fF050a8eC33b37384CC5) |
 
-## Learn more
+## Repositories
 
-- [About IPX](https://www.ipx.exchange/about)
-- [Whitepaper v4.6](https://www.ipx.exchange/about/whitepaper)
-- [Team](https://www.ipx.exchange/about/team)
-- [Contact](https://www.ipx.exchange/contact)
+- [**ipx-token**](https://github.com/IPX-Exchange/ipx-token): token details, distribution, vesting and the Genesis contracts.
 
-## Important
+---
 
-This page is for information only. IPX does not provide investment advice, and nothing here is a promise of profit or return. Read the [risk disclosure](https://www.ipx.exchange/risks) before using the platform.
+> [!IMPORTANT]
+> This page is for information only. IPX does not provide investment advice, and nothing here is a promise of profit or return. Read the [risk disclosure](https://www.ipx.exchange/risks) before using the platform.
+
+<p align="center">
+  <sub>Operated by IPX Exchange, Inc. &nbsp;·&nbsp; <a href="https://www.ipx.exchange">www.ipx.exchange</a></sub>
+</p>
